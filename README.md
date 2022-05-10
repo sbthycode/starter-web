@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 ## Lets learn Git!!
 
 here is the difference we can find with diff tool.
+
+## copyright
+this is my project!! F.O.
