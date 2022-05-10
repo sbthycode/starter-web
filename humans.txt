@@ -4,10 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	shrurhid banthia student not required MF
 
 # THANKS
 
     <name>
+	Hello puss
 
 # TECHNOLOGY COLOPHON
 

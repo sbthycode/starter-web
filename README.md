@@ -14,3 +14,6 @@ here is the difference we can find with diff tool.
 
 ## copyright
 this is my project!! F.O.
+
+## Simple changes
+minor changes for automatic merge
