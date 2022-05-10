@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## Lets learn Git!!
+
+here is the difference we can find with diff tool.
